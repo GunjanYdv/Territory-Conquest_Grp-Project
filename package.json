@@ -1,0 +1,26 @@
+{
+  "name": "territory-conquest",
+  "version": "1.0.0",
+  "description": "It is a game to conquer the gamespace by solving coding questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khyatigupta369/Territory-Conquest.git"
+  },
+  "author": "Innerve Teritory Conquest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khyatigupta369/Territory-Conquest/issues"
+  },
+  "homepage": "https://github.com/khyatigupta369/Territory-Conquest#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.5"
+  }
+}
